@@ -1,3 +1,3 @@
 Group Members:
-Luka Vasko
-Sadiq Shafi
+Luka Vasko,
+Sadiq Shafi,
